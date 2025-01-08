@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="400" src="banner.png"  />
+  <img height="200" src=""  />
 </div>
 
 ###
@@ -16,11 +16,7 @@
 
 ###
 
-<p align="left">My Recent Activities:<br>
-  <br>
-  - I am exploring NEXT.JS <br>- I also try to explore TypeScript
-  <br>
-  - After that i will like to explore Other Staffs.</p>
+<p align="left">My Recent Activities:<br><br>- I am exploring NEXT.JS <br>- I also try to explore TypeScript<br>- After that i will like to explore Other Staffs.</p>
 
 ###
 
@@ -57,6 +53,14 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jui9797&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jui9797&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jui9797&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
