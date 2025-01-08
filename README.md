@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src=""  />
+  <img height="200" src="banner.png"  />
 </div>
 
 ###
@@ -14,11 +14,13 @@
 
 <h3 align="left">I’m a passionate Front-End Developer with a love for building user-friendly websites and exploring new technologies.</h3>
 
-###
+### <p align="left">My Recent Activities:</p> ###
+<ul align="left">
+  <li>I am exploring NEXT.JS</li>
+  <li>I also try to explore TypeScript</li>
+  <li>After that, I will like to explore other stuff</li>
+</ul>
 
-<p align="left">My Recent Activities:<br><br>- I am exploring NEXT.JS <br>- I also try to explore TypeScript<br>- After that i will like to explore Other Staffs.</p>
-
-###
 
 <h2 align="left">I code with</h2>
 
