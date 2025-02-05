@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">I’m a committed Front-End Developer with a love for building user-friendly websites and exploring new technologies.</h3>
+<h3 align="left">I’m a committed Front-End Developer with a love for building user-friendly websites and exploring new technologies. My journey into web development started with a deep curiosity about how the web works, and over time, it has turned into my greatest passion.</h3>
 
 ### <p align="left">My Recent Activities:</p> ###
 <ul align="left">
